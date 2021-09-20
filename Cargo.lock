@@ -651,6 +651,7 @@ name = "solana-descrow"
 version = "0.1.0"
 dependencies = [
  "solana-program",
+ "thiserror",
 ]
 
 [[package]]
